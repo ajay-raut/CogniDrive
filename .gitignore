@@ -8,3 +8,13 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# Common exclusions
+.env
+.vscode/
+.idea/
+.DS_Store
+**/*.DS_Store
+coverage/
+htmlcov/
+.coverage

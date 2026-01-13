@@ -1,0 +1,3 @@
+[submodule "amplify-vite-react-template"]
+	path = amplify-vite-react-template
+	url = https://github.com/ajay-raut/amplify-vite-react-template.git
